@@ -1,0 +1,18 @@
+{
+  "name": "nodevminin",
+  "version": "1.0.0",
+  "description": "Node JS my project",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Alexander Paleev <paleev045@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
